@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoilha&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoilha" /> </p>
 
-<img allign="right" alt="conding gif" width="360" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding--78742693464152258%2F&psig=AOvVaw3LtvICdwsAzKW0gOFC26mp&ust=1718745232172000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICIvPDG44YDFQAAAAAdAAAAABAE"/> 
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding--78742693464152258%2F&psig=AOvVaw3LtvICdwsAzKW0gOFC26mp&ust=1718745232172000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICIvPDG44YDFQAAAAAdAAAAABAE'/> 
 
 - 🌱 Atualmente estou estudando sobre **React, Typescript**
 
