@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, me chamo Francisco</h1>
-<h3 align="center">Sou um desenvolvedor front-end junior.</h3>
+<h1 align="center">Olá 👋,  sou o Francisco</h1>
+<h2 align="center">Ciência da Computação | UNISINOS</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoilha&label=Profile%20views&color=0e75b6&style=flat" alt="franciscoilha" /> </p>
 
